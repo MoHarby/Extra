@@ -1,3 +1,10 @@
+
+
+//**********************In the name of allah the most gracious the most merciful***********************
+//This codes gets the numbers included in a string
+//*All digits in the string are numbers or spaces
+
+
 #include <iostream>
 #include<vector>
 #include<string>
